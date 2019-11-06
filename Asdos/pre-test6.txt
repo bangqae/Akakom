@@ -1,0 +1,50 @@
+Waktu 1 menit, 30 detik...
+
+1. Break hanya akan dijalankan jika value pada case tidak ada yang sesuai. B/S
+
+2. Default berguna untuk menghentikan case. B/S
+
+3. Switch-expression berisi ungkapan yang akan dicek valuenya. B/S
+
+4. Menggunakan switch-case tanpa break menyebabkan case berikutnya dieksekusi. B/S
+
+5. Value tidak dapat berupa tipe data short. B/S
+
+
+
+
+
+Pembahasan pretest :
+
+
+
+
+
+
+Pembahasan
+1. Break hanya akan dijalankan jika value pada case tidak ada yang sesuai. Salah
+P: Break ditemukan dari eksekusi pernyataan switch berakhir, berguna untuk menghentikan case.
+
+2. Default berguna untuk menghentikan case. Salah
+P: hanya akan dijalankan jika value pada case tidak ada yang sesuai.
+
+3. Switch-expression berisi ungkapan yang akan dicek valuenya. Benar
+P:
+
+4. Menggunakan switch-case tanpa break menyebabkan case berikutnya dieksekusi. Benar
+P: 
+
+5. Value tidak dapat berupa tipe data short. Salah
+P: Value dapat berupa byte, short, int atau char.
+
+
+
+
+
+
+
+
+
+
+
+

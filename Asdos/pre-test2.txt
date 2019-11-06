@@ -1,0 +1,6 @@
+Pretest
+Pseudocode adalah bentuk informal untuk mendeskripsikan algoritma yang mendekati struktur bahasa pemrograman tertentu. (A. Benar/B. Salah)
+Pseudocode ini biasanya disusun dalam bentuk yang terstruktur dengan pendekatan sekuensial (berurutan) dari atas ke bawah. (A. Benar/B. Salah)
+Flowchart didefinisikan sebagai skema penggambaran dari algoritma. (A. Benar/B. Salah)
+Terminator Sebagai simbol ’START’ atau ’END’ untuk memulai atau mengakhiri flowchart. (A. Benar/B. Salah)
+Tujuan dari penggunaan pseudocode adalah supaya lebih mudah dibaca oleh manusia. (A. Benar/B. Salah)

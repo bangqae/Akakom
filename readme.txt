@@ -1,0 +1,1 @@
+Data kuliah semenjak semester 5

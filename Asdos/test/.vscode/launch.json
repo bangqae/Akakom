@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - latihan6Str",
+            "request": "launch",
+            "mainClass": "latihan6Str",
+            "projectName": "test_60f5fd4f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - latihan6",
+            "request": "launch",
+            "mainClass": "latihan6",
+            "projectName": "test_60f5fd4f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "test_60f5fd4f"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+Menggunakan RGui (64bit) R language
+
+Laporan:
+*Print Cover
+*Tulis tangan dgn folio garis tiap minggu :
+*Listing :
+ - Praktik
+ - Latihan
+ - Tugas
+
+Install R

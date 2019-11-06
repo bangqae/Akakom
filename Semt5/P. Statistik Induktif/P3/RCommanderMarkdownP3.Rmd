@@ -1,0 +1,87 @@
+<!-- R Commander Markdown Template -->
+
+Replace with Main Title
+=======================
+
+### Your Name
+
+### `r as.character(Sys.Date())`
+
+```{r echo=FALSE}
+# include this code chunk as-is to set options
+knitr::opts_chunk$set(comment=NA, prompt=TRUE, out.width=750, fig.height=8, fig.width=8)
+library(Rcmdr)
+library(car)
+library(RcmdrMisc)
+```
+
+
+```{r echo=FALSE}
+# include this code chunk as-is to enable 3D graphs
+library(rgl)
+knitr::knit_hooks$set(webgl = hook_webgl)
+```
+
+```{r}
+load("C:/Users/Student/AppData/Local/Temp/RtmpoNZMGM/uji1")
+```
+
+```{r}
+
+```{r}
+
+```{r}
+
+```{r}
+uji2 <- read.table("D:/Semt 5/P. Statistik Induktif/P3/uji2.txt", header = TRUE, 
+    sep = "", na.strings = "NA", dec = ".", strip.white = TRUE)
+```
+
+```{r}
+
+```{r}
+
+```{r}
+
+```{r}
+uji1 <- within(uji1, {
+    ipk_kode <- Recode(ipk, "0 : 1.9 = 1; 2 : 2.9 = 2; else = 3", as.factor = TRUE)
+})
+
+```{r}
+
+```{r}
+
+```{r}
+uji1$skks_baru <- with(uji1, sks + 20)
+
+```{r}
+
+```{r}
+
+```{r}
+
+```{r}
+uji1 <- within(uji1, {
+    ipk_kode <- NULL
+})
+
+```{r}
+
+```{r}
+
+```
+
+```{r}
+uji1 <- uji1[-c(2, 3), ]
+
+```{r}
+
+```{r}
+
+```
+
+```{r}
+load("C:/Users/Student/AppData/Local/Temp/RtmpoNZMGM/lat1A")
+```
+

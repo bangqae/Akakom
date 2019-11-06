@@ -1,0 +1,51 @@
+1. Berikut adalah tipe data numeric : byte, short, int, long, float, double, char (character) (S)
+
+2. Tipe data boolean hanya mempunyai dua nilai yang mungkin, yaitu true dan false (B)
+
+3. Konstanta adalah nilai yang tetap (B)
+
+4. Operator logika OR adalah "//" (S)
+
+5. Operator "%" digunakan untuk menghitung persentase (S) sisa bagi (mod)
+
+
+Jika nilai ujian min 5 maka lulus
+
+nilai     = 5
+keterangan= 5>=nilai
+
+Perhatikan format penamaan file pada classroom masing-masing.
+Save as pdf
+
+NIM_MI1_NamaDepan_List3.pdf
+NIM_KA1_NamaDepan_List3.pdf
+
+Contoh:
+185610119_MI1_Tono_List3.pdf
+185610111_KA1_Tini_List3.pdf
+Selain format ini TIDAK diterima!
+
+Real=Float, menyimpan bilangan desimal/pecahan
+Int, untuk bilangan bulat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
